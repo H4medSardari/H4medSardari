@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @H4medSardari
+- 👀 I’m interested in Deep Learning, AI, Image Processing
+- 🌱 I’m currently learning Python
+- 📫 How to reach me => h4medsardari@gmail.com
